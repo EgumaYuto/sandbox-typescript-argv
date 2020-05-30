@@ -1,0 +1,16 @@
+{
+  "name": "sandbox-typescript-argv",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  },
+  "dependencies": {
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {
+    "@types/yargs": "^15.0.4",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.8.3"
+  }
+}
